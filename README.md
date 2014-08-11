@@ -1,0 +1,4 @@
+sudoku
+======
+
+simple sudoku resolver
